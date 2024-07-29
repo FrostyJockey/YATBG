@@ -1,4 +1,4 @@
-# YATBG (test)
+# YATBG
 ## Introduction
  
 You are a BBEG.
